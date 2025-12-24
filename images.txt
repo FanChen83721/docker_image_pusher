@@ -1,2 +1,2 @@
-registry.cn-beijing.aliyuncs.com/gcr-162-io/controller:v1.14.1
-registry.cn-beijing.aliyuncs.com/gcr-162-io/kube-webhook-certgen:v1.6.5
+registry.k8s.io/ingress-nginx/controller:v1.14.1
+kregistry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.6.5
